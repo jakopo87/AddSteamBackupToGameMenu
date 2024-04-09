@@ -1,0 +1,6 @@
+﻿Id: AddSteamBackuptogamemenu_e36b4738-84c8-461c-a74b-621194f75b11
+Name: PowerShell Extension
+Author: Jacopo Galati
+Version: 1.0
+Module: PowerShellScript.psm1
+Type: Script
